@@ -1,4 +1,4 @@
-<img src="img/fogo-vs-fogo.png" align="right" width="300" border-radius="100%">
+<img src="img/fogo-vs-fogo.png" align="right" width="300" border-radius="100">
 
 # 火-対-火 --OU-- FOGO VS FOGO
 
