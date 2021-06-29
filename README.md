@@ -12,4 +12,4 @@ O que é fogo vs fogo? É um Site que fala sobre diferentes tipos de jogos!
 
 ## direitos de uso
 
-Você tem todo o direito de uso deste site para seu próprio aprendizado. Mas colocando o nome do criador oficial no final da pagina, para assim todos conhecerem o meu trabalho;
+Você tem todo o direito de uso deste site para seu próprio aprendizado. Mas colocando o nome do criador oficial no final da pagina, para assim todos conhecerem o meu trabalho.
