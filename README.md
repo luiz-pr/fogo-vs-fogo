@@ -7,7 +7,7 @@
 O que é fogo vs fogo? É umSite que fala sobre diferentes tipos de jogos
 
 *.[Acesse o código do meu projeto em PT-BR aqui].(https://github.com/luiz-pr/fogo-vs-fogo/blob/main/indexPTBR.html)
-*.[Acesse o código do meu projeto em JP aqui].(https://github.com/luiz-pr/fogo-vs-fogo/blob/main/indexJP.html)
+*.[Acesse o código do meu projeto em JP-JP aqui].(https://github.com/luiz-pr/fogo-vs-fogo/blob/main/indexJP.html)
 
 ## direitos de uso
 
