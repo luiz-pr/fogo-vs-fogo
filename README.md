@@ -15,7 +15,13 @@ ele foi criado para ter várias traduções de várias linguas tais como Portugu
 
 ## direitos de uso
 
-
-### Proibido
-* [Não use esta página dizendo que foi Você quem fez]
-* [Não ]
+### Você tem permissão para imprimir e baixar extratos do Website para seu próprio uso de acordo com a seguinte base:
+* [Nenhum documento ou gráfico relacionado no Website seja modificado de modo algum.]
+* [Nenhum gráfico no Website seja usado separadamente do texto correspondente;]
+* [Nossos avisos de direitos autorais e de marcas registradas e esse aviso de permissão apareçam em todas as cópias.]<br>
+Em especial, mas sem limitação, você não deve usar nenhuma parte do material do Website para fins comerciais sem obter licença para tal através de nós e/ou de nossos Licenciadores.<br>
+Salvo disposição em contrário, os direitos autorais e outros direitos de propriedade intelectual em todo material do Website (incluindo, sem limitação, fotografias e imagens gráficas) são de nossa propriedade ou de nossos Licenciadores.<br>
+Para os fins destes Termos de Uso, é proibido o uso de qualquer extrato a partir do Website que não seja de acordo com a cláusula 2.1 para qualquer finalidade.<br>
+Se você violar qualquer dos termos nesses termos de uso, a sua permissão para usar o Website estará automaticamente revogada e você deverá destruir imediatamente quaisquer extratos baixados ou impressos a partir do Website.<br>
+Sujeito à clausula 2.1, nenhuma parte do Website pode ser reproduzida ou armazenada em nenhum outro website ou incluída em qualquer sistema ou serviço de recuperação eletrônica público ou privado sem nossa prévia permissão escrita.<br>
+Quaisquer Direitos não concedidos expressamente nestes termos são reservados.<br>
