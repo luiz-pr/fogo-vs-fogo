@@ -15,4 +15,5 @@ ele foi criado para ter várias traduções de várias linguas tais como Portugu
 
 ## direitos de uso
 
-Você tem todo o direito de uso deste site para seu próprio aprendizado. Mas colocando o nome do criador oficial no final da pagina, para assim todos conhecerem o meu trabalho.
+* [Não use esta página dizendo que foi Você quem fez]
+* [Não ]
