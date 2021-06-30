@@ -2,9 +2,10 @@
 
 # 火-対-火 --OU-- FOGO VS FOGO
 
-
+Tradução JP
 火と火とは何ですか？さまざまな種類のゲームについて話すサイトです
 
+Tradução PT-BR
 O que é fogo vs fogo? É um Site que fala sobre diferentes tipos de jogos!
 
 *.[Acesse o código do meu projeto em PT-BR aqui].(https://github.com/luiz-pr/fogo-vs-fogo/blob/main/indexPTBR.html)
