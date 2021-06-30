@@ -7,6 +7,7 @@ Tradução JP
 
 Tradução PT-BR
 O que é fogo vs fogo? É um Site que fala sobre diferentes tipos de jogos!
+ele foi criado para ter várias traduções de várias linguas tais como Português, Inglês, Japonês, Chinês entre outras.
 
 * [Acesse o código do meu projeto em PT-BR aqui](https://github.com/luiz-pr/fogo-vs-fogo/blob/main/indexPTBR.html)
 
