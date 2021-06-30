@@ -43,6 +43,14 @@ p, label, strong {
     font-weight: 300;
 }
 
+
+#hero-image {
+    background: #000 url(walpaper.jpg) center no-repeat;
+    background-size: 100% 100%;
+    height: 820px;
+}
+
+
 .flex {
     display: flex;
     justify-content: space-between;
@@ -573,12 +581,6 @@ nav ul li a {
     top: 0;
     left: 0;
     background: rgba(0, 0, 0, 0.7);
-}
-
-#hero-image {
-    background: #000 url(walpaper.jpg) center no-repeat;
-    background-size: 100% 100%;
-    height: 820px;
 }
 
 
