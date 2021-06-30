@@ -15,5 +15,7 @@ ele foi criado para ter várias traduções de várias linguas tais como Portugu
 
 ## direitos de uso
 
+
+### Proibido
 * [Não use esta página dizendo que foi Você quem fez]
 * [Não ]
