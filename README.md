@@ -25,3 +25,6 @@ Para os fins destes Termos de Uso, é proibido o uso de qualquer extrato a parti
 Se você violar qualquer dos termos nesses termos de uso, a sua permissão para usar o Website estará automaticamente revogada e você deverá destruir imediatamente quaisquer extratos baixados ou impressos a partir do Website.<br><br><br>
 Sujeito à clausula 2.1, nenhuma parte do Website pode ser reproduzida ou armazenada em nenhum outro website ou incluída em qualquer sistema ou serviço de recuperação eletrônica público ou privado sem nossa prévia permissão escrita.<br><br>
 Quaisquer Direitos não concedidos expressamente nestes termos são reservados.<br>
+
+##
+
