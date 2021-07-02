@@ -31,7 +31,7 @@ Quaisquer Direitos não concedidos expressamente nestes termos são reservados.<
 # Olá! Eu sou o Luiz Henrique
 <div>
  <a href="https://github.com/luiz-pr">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-pr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="175em" src="https://github-readme-stats.vercel.app/api?username=luiz-pr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-pr&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
