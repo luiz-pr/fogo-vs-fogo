@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link rel="stylesheet" href="./css/login.css">
-    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="./css/style.css">
     
 </head>
@@ -51,26 +51,27 @@
     <div id="interface">
 
         <!-- Formulário -->
-        <form action="#" method="post">
+        <form action="#" method="POST">
             <!-- div inputs -->
             <div id="inputs">
 
                 <!-- Email -->
-                <b><h2>Email</h2></b>
+                <h2>Email</h2>
                 <input type="email" name="email" id="email" placeholder="Insira seu Email: " class="input">
-            
-                <br><br>
+
+                <h2>Nick Name</h2>
+                <input type="text" name="nome" id="nome" placeholder="Insira seu Nome:" class="input">
 
                 <!-- Senha -->
                 <h2>Senha</h2>
-                <input type="password" name="pass" id="pass" placeholder="Insira sua Senha" class="input">
-
-                <br><br>
+                <input type="password" name="pass" id="pass" placeholder="Insira sua Senha:" class="input">
 
                 <input type="button" value="Enviar" id="button-enviar">
 
             </div>
         </form>
     </div>
+    
+    <script src="./js/login.js"></script>
 </body>
 </html>
