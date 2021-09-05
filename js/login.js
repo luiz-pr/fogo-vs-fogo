@@ -12,8 +12,8 @@ function click() {
     var textoEmail = inputEmail.value
     var textoPass = inputPass.value
 
-    if ((textoNome == "") && (textoEmail == "") && (textoPass == "")) {
-        alert("Informe algo!!!")
+    if ((textoNome == "") || (textoEmail == "") || (textoPass == "")) {
+        alert("Informe Os Valores Corretamente!!!")
     }
     // if (textoNome == ""){
     //     alert("Nome Inválido tente Novamente")
