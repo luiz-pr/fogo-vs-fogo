@@ -28,5 +28,7 @@ function click() {
         console.log(textoNome);
         console.log(textoEmail);
         console.log(textoPass);
+
+        window.location.assign("index-PT.html")
     }
 }
