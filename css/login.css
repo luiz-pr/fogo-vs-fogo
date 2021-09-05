@@ -1,5 +1,14 @@
 @charset "UTF-8";
 
+@font-face {
+    font-family: Negro;
+    src: url(fonts/Armstrong-Extrabold.otf);
+}
+
+@font-face {
+    font-family: Game;
+    src: url(fonts/Games-Italic.ttf);
+}
 * {
     margin: 0;
     padding:  0;
@@ -7,10 +16,10 @@
     box-sizing: border-box;
 }
 
-
 h2 {
     color: #2494c8b0!important;
     text-transform: uppercase;
+    font-family: Game;
     font-size: 30px;
 }
 
@@ -40,6 +49,8 @@ h2 {
     margin-right: auto;
 
     background-color: #000000;
+
+    opacity: .9;
 
     border-radius: 30px;
     /* border: 1px dashed red; */
