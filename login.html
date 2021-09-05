@@ -6,30 +6,72 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link rel="stylesheet" href="./css/login.css">
+    <!-- <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="./css/style.css">
+    
 </head>
 <body id="container">
+
+    <header>
+        <div class="flex">
+            <div class="logo">
+                <a href="#"><img src="./img/fogo-vs-fogo.png" alt=""  class="logo"/></a>
+            </div>
+            <nav>
+                <button id="nav-toggle" class="hamburger-menu">
+                    <span class="strip"></span>
+                    <span class="strip"></span>
+                    <span class="strip"></span>
+                </button>
+                <ul id="nav-menu-container">
+                    <!-- casa -->
+                    <li><a href="index-PT-BR.html">Casa</a></li>
+
+                    <!-- Jogos -->
+                    <li><a href="#">Jogos</a></li>
+
+                    <!--blog  -->
+                    <li><a href="#">blog</a></li>
+                    
+                    <!-- Contate-Nos -->
+                    <li><a href="#">Contate-Nos</a></li>
+
+                    <!-- sobre nós -->
+                    <li><a href="#">sobre nós</a></li>
+
+                    <!-- Versão em JP -->
+                    <li><a href="./index-JP.html">Versão em japones</a></li>
+                </ul>
+            </nav>
+            <a href="" id="login-register-button">Cadastrar</a>
+        </div>
+    </header>
+
     <!-- div interface -->
     <div id="interface">
 
         <!-- Formulário -->
-        <form action="#" method="post">
+        <form action="#" method="POST">
             <!-- div inputs -->
             <div id="inputs">
 
                 <!-- Email -->
+                <h2>Email</h2>
                 <input type="email" name="email" id="email" placeholder="Insira seu Email: " class="input">
-            
-                <br><br>
+
+                <h2>Nick Name</h2>
+                <input type="text" name="nome" id="nome" placeholder="Insira seu Nome:" class="input">
 
                 <!-- Senha -->
-                <input type="password" name="pass" id="pass" placeholder="Insira sua Senha" class="input">
-
-                <br><br>
+                <h2>Senha</h2>
+                <input type="password" name="pass" id="pass" placeholder="Insira sua Senha:" class="input">
 
                 <input type="button" value="Enviar" id="button-enviar">
 
             </div>
         </form>
     </div>
+    
+    <script src="./js/login.js"></script>
 </body>
 </html>

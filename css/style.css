@@ -1,7 +1,10 @@
 
+body {
+    background-color: #1B1D20;
+}
+
 header {
-    background: linear-gradient(to right, rgba(0,0,0,0), rgba(255,0,0,1),
-                                                    rgba( 9, 9, 9, 0));
+    background: linear-gradient(to right, rgba(0,0,0,0), rgba(255,0,0,1),rgba( 9, 9, 9, 0));
     padding: 20px 0;
     position: relative;
     border-bottom: 1px solid #ff0;
@@ -67,12 +70,14 @@ p, label, strong {
 #recent-reviews h1 {
     text-align: center;
     margin-bottom: 1.65em;
+    color: #fff;
 }
 
 #recent-reviews .box {
     flex-basis: 23%;
     position: relative;
     text-align: center;
+    color: #fff;
 }
 
 #recent-reviews .box .rating-badge {
@@ -313,6 +318,10 @@ p, label, strong {
     #recent-reviews .box {
         flex-basis: 48%;
         margin-bottom: 45px;
+    }
+
+    h4 {
+        color: #fff;
     }
 
     #posts-comments .flex {

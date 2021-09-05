@@ -1,5 +1,20 @@
 @charset "UTF-8";
 
+@font-face {
+    font-family: Negro;
+    src: url(fonts/Armstrong-Extrabold.otf);
+}
+
+@font-face {
+    font-family: Game;
+    src: url(fonts/Games-Italic.ttf);
+}
+
+@font-face {
+    font-family: Japanese;
+    src: url(fonts/Japanese.ttf);
+}
+
 * {
     margin: 0;
     padding:  0;
@@ -7,37 +22,62 @@
     box-sizing: border-box;
 }
 
-#container {
-    background: url(../img/Parede-de-Tijolos.jpg) repeat;
-    background-size: 100%;
+h2 {
+    color: #2494c8b0!important;
+    text-transform: uppercase;
+    font-family: Game;
+    font-size: 30px;
+}
 
+#container {
+    background: url(walpaper.jpg) no-repeat;
+    background-size: 100%;
+    background-color: #1B1D20;
     display: block;
+    z-index: 1;
+}
+
+@media screen and (min-width: 300px) and (max-width: 958px) {
+    #container {
+        background: url(walpaper.jpg) no-repeat;
+        background-size: 100% 1000px;
+        background-color: #1B1D20;
+        z-index: 1;
+    }
 }
 
 #interface {
     width: 70%;
-    height: 50em;
+    height: 30em;
 
-    margin-top: 5%;
+    margin-top: 4%;
     margin-left: auto;
     margin-right: auto;
 
-    border: 1px dashed red;
+    background-color: #000000;
+
+    opacity: .9;
+
+    border-radius: 30px;
+    /* border: 1px dashed red; */
+
+    z-index: 2;
 }
 
 #inputs {
-    width: 100%;
+    width: 80%;
     height: 100%;
 
-    margin: 30% auto;
+    margin: auto;
 
-    /* border: 1px dashed blue; */
+    margin-top: 10px;
+
 }
 
 .input {
     width: 100%;
     height: 40px;
-    margin: auto;
+    margin: 10px auto;
 
     border-radius: 7px;
 }
