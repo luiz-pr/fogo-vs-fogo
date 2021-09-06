@@ -119,7 +119,7 @@ p, label, strong {
 }
 
 #recent-reviews .box p {
-    color: #999;
+    color: #fff;
 }
 
 #posts-comments {
@@ -273,6 +273,12 @@ p, label, strong {
     }
 }
 
+#tournaments .box .tournaments-content {
+    margin-left: 0;
+    width: 100%;
+    color: #fff;
+}
+
 @media (max-width: 991px) {
     .flex {
         max-width: 720px;
@@ -310,6 +316,7 @@ p, label, strong {
     #tournaments .box .tournaments-content {
         margin-left: 0;
         width: 100%;
+        color: #fff;
     }
     
     #recent-reviews {
@@ -736,7 +743,7 @@ nav ul li a {
 
 #recent-games h1 {
     text-align: center;
-    
+    color: #fff;
 }
 
 #recent-games .box {
@@ -744,6 +751,8 @@ nav ul li a {
     flex-basis: 31%;
     background-color: #282A2D;
 }
+
+#
 
 #recent-games .box .badge {
     position: absolute;
@@ -761,11 +770,15 @@ nav ul li a {
 }
 
 #recent-games .box .box-lower-section p {
-    color: #999;
+    color: #fff;
+}
+
+#recent-games .box .box-lower-section h4 {
+    color: #fff;
 }
 
 #recent-games .box .box-lower-section a {
-    color: #999;
+    color: #fff;
     font-size: 0.8em;
 }
 
